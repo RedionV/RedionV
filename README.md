@@ -1,4 +1,12 @@
 ## Hi there 👋
+-IM new to programming /n
+
+-IM currently learning python
+
+-still learning how all of this even work
+
+-need help in learning all about programming
+
 
 <!--
 **RedionV/RedionV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
